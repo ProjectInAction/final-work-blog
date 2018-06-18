@@ -1,0 +1,7 @@
+/env/*
+*.pyc
+*.db
+/tools/*
+/blog/__init__.py
+/blog/blogDB.py
+.idea
